@@ -1,6 +1,5 @@
 # Listening Heart — قلب يسمع
 
-*(Draft name — to be confirmed.)*
 
 **A free agent skill that teaches AI to listen to how you feel, not just what you say.**
 
@@ -12,7 +11,6 @@ When a person is angry, tired, sad, or happy, a ready-made answer feels cold —
 npx skills add dagdog16-beep/listening-heart
 ```
 
-*(Repository link goes live at publication — this package is a draft.)*
 
 Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI and other agent platforms that support skills.
 
@@ -49,7 +47,6 @@ License: free for everyone, including commercial use — see [NOTICE.md](NOTICE.
 
 # قلب يسمع
 
-*(اسم مسودة — يُثبَّت لاحقاً.)*
 
 **سكيل مجاني للوكلاء يعلّم الذكاء الاصطناعي يسمع إحساسك، مش غير كلامك.**
 
@@ -61,7 +58,6 @@ License: free for everyone, including commercial use — see [NOTICE.md](NOTICE.
 npx skills add dagdog16-beep/listening-heart
 ```
 
-*(رابط المستودع يتحط وقت النشر — هذه الحزمة مسودة.)*
 
 يخدم مع Claude Code وCodex وCursor وCopilot وGemini CLI وباقي منصات الوكلاء اللي تدعم السكيلات.
 
